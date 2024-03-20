@@ -1,1 +1,1 @@
-# sistemas_distribuidos_curso
+# Sistemas distribuidos curso
